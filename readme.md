@@ -226,5 +226,7 @@ Steps:
   https://arxiv.org/abs/1506.02640
 * YOLOv7 Paper (head modern)
   https://arxiv.org/abs/2207.02696
+* Yolov8 
+  https://arxiv.org/html/2408.15857
 
 
