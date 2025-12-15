@@ -30,8 +30,6 @@ onnx2burn (model codegen)
 Rust Inference (Burn)
         ↓
 YOLOv8 Decode + NMS
-        ↓
-Bounding Box Drawing
 ```
 
 ---
