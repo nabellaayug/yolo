@@ -1,0 +1,13 @@
+[package]
+name = "yolo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+burn = { version = "0.19.1", features = ["ndarray"] }
+burn-ndarray = "0.19.1"
+
+image = "0.24.9"
+anyhow = "1.0"
+imageproc = "0.23.0"
+rusttype = "0.9.0"
