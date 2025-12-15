@@ -216,4 +216,15 @@ Steps:
 * Imageproc
   [https://github.com/image-rs/imageproc](https://github.com/image-rs/imageproc)
 
+* YOLOv8 Explained (Code Walkthrough)
+  https://www.youtube.com/watch?v=Z-65nqxUdl4
+
+* ONNX + YOLO Inference Explained
+  https://www.youtube.com/watch?v=E6LZyU3Zz7Q
+
+* YOLOv1 Paper
+  https://arxiv.org/abs/1506.02640
+* YOLOv7 Paper (head modern)
+  https://arxiv.org/abs/2207.02696
+
 
